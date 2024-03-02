@@ -1,4 +1,4 @@
-#2Overview:#2
+<h2>Overview:</h2>
 This repository contains the final project for the Web Development course, developed in collaboration with my friend Daniel Luiz Joaquim. We have created a website for a sneaker e-commerce, implementing features such as employee registration, login functionality, and an item registration screen.
 
 #2Technologies Used:#2
