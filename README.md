@@ -1,7 +1,7 @@
 <h2>Overview:</h2>
 This repository contains the final project for the Web Development course, developed in collaboration with my friend Daniel Luiz Joaquim. We have created a website for a sneaker e-commerce, implementing features such as employee registration, login functionality, and an item registration screen.
 
-#2Technologies Used:#2
+<h2>Technologies Used:</h2>
 The project utilizes a combination of web development technologies:
 
 HTML
@@ -10,7 +10,7 @@ JavaScript
 PHP
 MySQL
 
-#2Usage:#2
+</h2>Usage:</h2>
 To use this project, you'll need to have XAMPP installed on your system. Follow these steps:
 
 1. Clone this repository to your local machine.
@@ -19,12 +19,12 @@ To use this project, you'll need to have XAMPP installed on your system. Follow 
 4. Start the Apache and MySQL services using the XAMPP control panel.
 5. Access the website through your web browser using the localhost URL provided by XAMPP.
    
-#2Features:#2
+</h2>Features:</h2>
 **Employee Registration**: Employees can register themselves on the platform.
 **Login Functionality**: Registered users can log in securely to access the website's features.
 **Item Registration Screen**: There's a dedicated screen for registering new items in the inventory.
 
-#2Collaboration:#2
+<h2>Collaboration:</h2>
 This project was a joint effort between myself and Daniel. Contributions and suggestions are welcome.
 
 **Note:**
